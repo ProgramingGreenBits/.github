@@ -1,4 +1,5 @@
-# Hi, **Python, HTML and CSS Enthusiast**!
+
+Hi there 👋, **Python, HTML and CSS Enthusiast** 🐍 here!  
 ```
 we = Developer(  
     name='GreenBits', main_skills=['Python'],  
